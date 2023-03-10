@@ -4,7 +4,7 @@
 I'm improving in Python, Data Analysis and SQL. 
 
 **Connect with me:** 
-- https://t.me/azatsince83 and my e-mail: 
+- https://t.me/azatsince83 
 - azatka1@gmail.com 
 
 **Languages and Tools:** 
