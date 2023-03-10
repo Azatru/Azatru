@@ -3,6 +3,8 @@
 
 I'm improving in Python, Data Analysis and SQL. 
 
+⚡ Fun fact: I'm a vegetarian)
+
 **Connect with me:** 
 - https://t.me/azatsince83 
 - azatka1@gmail.com 
