@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 
-I'm improving in Python and SQL. 
+I'm improving in Python, Data Analysis and SQL. 
 
-My telegram: t.me/azatsince83 and my e-mail: 34719@bk.ru. 
+**Connect with me:** 
+- https://t.me/azatsince83 and my e-mail: 
+- azatka1@gmail.com 
 
-Languages and Tools: 
+**Languages and Tools:** 
 - Python
 - Git
 - GitHub
