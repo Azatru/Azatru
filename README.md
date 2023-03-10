@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+I'm improving in Python and SQL. 
+
+My telegram: t.me/azatsince83 and my e-mail: 34719@bk.ru. 
+
+Languages and Tools: 
+- Python
+- Git
+- GitHub
 <!--
 **Azatru/Azatru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
